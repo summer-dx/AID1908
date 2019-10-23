@@ -46,3 +46,6 @@ cur.close()
 db.close()
 
 
+
+def fun():
+   print('哈哈哈哈')
